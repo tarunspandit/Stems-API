@@ -1,3 +1,4 @@
+demucs
 fastapi
 uvicorn
 pydantic
